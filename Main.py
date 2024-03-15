@@ -6,7 +6,7 @@ from FunctionalScripts import *
 successPdf = []
 answersId = []
 
-output_directory = "Local storage of images\\"
+output_directory = "/content/Mixwer/Images/"
 
 
 
