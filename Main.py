@@ -6,7 +6,7 @@ from FunctionalScripts import *
 successPdf = []
 answersId = []
 
-output_directory = "/content/Mixwer/Images/"
+output_directory = "/content/Mixwer-ColabVersion/Images/"
 
 
 
