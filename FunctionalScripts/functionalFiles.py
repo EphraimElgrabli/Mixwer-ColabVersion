@@ -7,7 +7,7 @@ import zipfile
 
 from FunctionalScripts import editPng
 
-ouput_directory = "/content/Mixwer/Images/"
+ouput_directory = "/content/Mixwer-ColabVersion/Images/"
 
 
 
