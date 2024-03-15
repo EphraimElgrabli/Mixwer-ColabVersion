@@ -6,7 +6,7 @@ import cv2
 
 from FunctionalScripts import functionalFiles, editPng
 
-ouput_directory = "Local storage of images\\"
+ouput_directory = "/content/Mixwer/Images/"
 
 
 def find_index_correct_ocr(words, target_word):
