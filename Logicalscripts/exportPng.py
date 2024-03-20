@@ -68,7 +68,7 @@ def export_answers(pathRoot, answersId, ouput_directory):
     image = cv2.imread(pathRoot)
     first_words = logicalList.find_first_words(pathRoot, answersId, False,True)
     halfPath = pathRoot[pathRoot.rfind("\\") + 1:]
-    numQ = int(halfPath[9:-4])
+    numQ = int(halfPath.split("_")[1])
     if numQ == 10:
         pass
     coordNext = []
